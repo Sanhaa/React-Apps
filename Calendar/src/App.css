@@ -1,0 +1,26 @@
+.container{
+  display: inline-flex;
+  width:100%;
+  margin-top:50px;
+  justify-content: center;
+  flex-direction: row;
+}
+.projects{
+  background-color: white;
+  width: 15%;
+  height:700px;
+  margin: 20px;
+}
+
+.projects h1{font-size: 30px; padding-left: 30px;}
+.projects ul{font-size: 18px; line-height:30px; padding-left: 50px}
+
+.calendar{
+  background-color: white;
+  width: 50%;
+  height:700px;
+  margin: 20px;
+}
+
+.react-calendar{
+}
