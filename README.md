@@ -1,5 +1,5 @@
-# React-Apps
-React apps I created
+# React-Apps: Calendar
+React를 사용해 캘린더/할-일 앱 만들기
 
 1. Calendar App
     ![image](https://user-images.githubusercontent.com/26539591/124383758-20394380-dd09-11eb-8845-56e6a7f29ff1.png)
